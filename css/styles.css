@@ -124,6 +124,9 @@ h1{
     grid-template-columns: repeat(3, 1fr);
     gap: 60px;
 }
+.invisible{
+    display: none;
+}
 
 article h3{
     font-size: 36px;
