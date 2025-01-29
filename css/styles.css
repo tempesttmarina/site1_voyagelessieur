@@ -93,6 +93,9 @@ h1{
 }
 
 /*Section Transports*/
+.transport{
+    padding-bottom: 80px;
+}
 
 .titre-transport{
     display: flex;
